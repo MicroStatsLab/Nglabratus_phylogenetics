@@ -1,0 +1,66 @@
+Run,Clade,Strain.Name,Continent,Source,SequenceType
+SRR8697396,3,CAS10-1862,North America,Circulatory,3
+SRR7609360,3,NGNRZ_57,Europe,Circulatory,3
+SRR7609359,3,NRZ_2016_58,Europe,Circulatory,3
+SRR13648884,3,ISTB218,Europe,Urogenital,3
+SRR13648885,3,ISTA29,Europe,Urogenital,3
+HSC017,3,HSC017,North America,Abdominal,3
+HSC045,3,HSC045,North America,Urogenital,3
+SRR8697460,3,CAS15-6297,North America,Circulatory,3
+SRR11235421,3,SP3003,North America,Circulatory,3
+SRR11235426,3,SP3417,North America,Circulatory,3
+SRR11235425,3,SP3689,North America,Circulatory,3
+SRR12825236,3,CG167,Europe,Circulatory,3
+SRR12825235,3,CG174,Europe,Circulatory,3
+SRR12825221,3,CG46,Europe,Circulatory,3
+SRR12825214,3,CG69b,Europe,Circulatory,3
+SRR8068059,3,WM_18.60,Oceania,Circulatory,3
+SRR8068047,3,WM_18.34,Oceania,Circulatory,3
+SRR8068015,3,WM_18.44,Oceania,Circulatory,3
+SRR3925740,3,CAS09_0869,North America,Unknown,3
+SRR3925757,3,CAS11_3527,North America,Unknown,3
+SRR3925758,3,CAS11_3570,North America,Unknown,3
+SRR3925759,3,CAS11_3606,North America,Unknown,3
+SRR3925761,3,CAS11_4416,North America,Unknown,3
+SRR3925762,3,CAS12_4417,North America,Unknown,3
+SRR3925765,3,CAS13_5051,North America,Unknown,3
+SRR3925767,3,CAS13_5084,North America,Unknown,3
+SRR5239761,3,M6,North America,Circulatory,3
+ERR4669786,3,SAM911,Europe,Oral,3
+ERR1938061,3,Y644,Europe,Oral,3
+ERR1938077,3,Y663,Europe,Gastrointestinal,3
+SRR8697456,16,CAS11-3233,North America,Circulatory,16
+SRR8697277,16,CAS13-5037,North America,Circulatory,16
+SRR8697266,16,CAS16-7403,North America,Circulatory,16
+SRR3925746,16,CAS09_1648,North America,Unknown,16
+SRR3925749,16,CAS11_2978,North America,Circulatory,16
+HSC086,19,HSC086,North America,Circulatory,19
+SRR8697451,19,CAS12-4323,North America,Circulatory,19
+SRR8697317,19,CAS12-4380,North America,Circulatory,19
+SRR8697390,19,CAS15-6394,North America,Circulatory,19
+SRR10725598,19,IHEM 26116,Europe,Circulatory,19
+SRR3925754,19,CAS11_3302,North America,Unknown,19
+SRR5239782,19,EB101M,Europe,Oral,19
+ERR1938088,19,Y1646,Europe,Circulatory,19
+ERR1938043,19,Y613,Europe,Unknown,19
+ERR1938070,19,Y654,Europe,Circulatory,19
+ERR1938071,19,Y655,Europe,Circulatory,19
+ERR1938078,19,Y664,Europe,Circulatory,19
+ERR1938069,19,Y653,Europe,Circulatory,19
+SRR8697400,S,CAS17-7689,North America,Circulatory,43
+SRR8068031,45,WM_18.31,Oceania,Circulatory,45
+SRR8697298,45,CAS11-3248,North America,Circulatory,45
+SRR5239763,136,P35_2,Asia,Oral,136
+SRR5239762,136,P35_3,Asia,Oral,136
+SRR12825247,S,CG133,Europe,Circulatory,147
+SRR3925739,169,CAS09_0820,North America,Unknown,169
+SRR3925741,169,CAS09_0876,North America,Unknown,169
+SRR8068055,3,WM_18.55,Oceania,Circulatory,174
+SRR8068054,S,WM_18.66,Oceania,Circulatory,175
+SRR8697425,3,CAS08-0525,North America,Circulatory,185
+HSC053,16,HSC053,North America,Abdominal,187
+SRR8697448,S,CAS12-3980,North America,Circulatory,189
+SRR12825264,S,CG57,Europe,Circulatory,204
+SRR8068023,S,WM_05.155,Oceania,Circulatory,286
+SRR8068014,S,WM_18.45,Oceania,Circulatory,303
+HSC003,19,HSC003,North America,Abdominal,Novel
