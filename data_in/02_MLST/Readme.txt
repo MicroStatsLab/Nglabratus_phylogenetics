@@ -1,0 +1,1 @@
+The raw sequencing reads in FASTQ format are required as input for in silico multilocus sequence typing (MLST) analyses using StringMLST. These FASTQ files can be accessed from the Sequence Read Archive (SRA) using their respective project accession IDs. Due to the large file sizes, they are not provided here directly.
