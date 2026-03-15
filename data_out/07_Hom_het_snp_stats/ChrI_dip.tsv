@@ -1,0 +1,883 @@
+Location                     : 250825_gatk_ChrI_nomtd_dip.vcf.gz
+Failed Filters               : 9066
+Passed Filters               : 30065
+
+Sample Name: ERR1938055
+SNPs                         : 7582
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21957
+Missing Genotype             : 432
+Partial Genotype             : 94
+Phased Genotypes             : 9.9% (2938/29633)
+SNP Transitions/Transversions: 1.67 (9293/5577)
+Total Het/Hom ratio          : 0.04 (318/7358)
+SNP Het/Hom ratio            : 0.04 (297/7285)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7582)
+
+Sample Name: ERR1938056
+SNPs                         : 171
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 29889
+Missing Genotype             : 2
+Partial Genotype             : 3
+Phased Genotypes             : 0.3% (81/30063)
+SNP Transitions/Transversions: 1.67 (144/86)
+Total Het/Hom ratio          : 1.90 (114/60)
+SNP Het/Hom ratio            : 1.90 (112/59)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/171)
+
+Sample Name: ERR1938057
+SNPs                         : 6299
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23550
+Missing Genotype             : 138
+Partial Genotype             : 78
+Phased Genotypes             : 8.5% (2547/29927)
+SNP Transitions/Transversions: 1.68 (7774/4623)
+Total Het/Hom ratio          : 0.03 (208/6169)
+SNP Het/Hom ratio            : 0.03 (202/6097)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6299)
+
+Sample Name: ERR1938058
+SNPs                         : 5758
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24048
+Missing Genotype             : 180
+Partial Genotype             : 79
+Phased Genotypes             : 7.6% (2277/29885)
+SNP Transitions/Transversions: 1.66 (7070/4268)
+Total Het/Hom ratio          : 0.03 (185/5652)
+SNP Het/Hom ratio            : 0.03 (180/5578)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5758)
+
+Sample Name: ERR1938059
+SNPs                         : 87
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 29973
+Missing Genotype             : 1
+Partial Genotype             : 4
+Phased Genotypes             : 0.2% (61/30064)
+SNP Transitions/Transversions: 1.38 (51/37)
+Total Het/Hom ratio          : 90.00 (90/1)
+SNP Het/Hom ratio            : 86.00 (86/1)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/87)
+
+Sample Name: ERR1938060
+SNPs                         : 7933
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21542
+Missing Genotype             : 486
+Partial Genotype             : 104
+Phased Genotypes             : 11.4% (3361/29579)
+SNP Transitions/Transversions: 1.68 (9722/5792)
+Total Het/Hom ratio          : 0.05 (368/7669)
+SNP Het/Hom ratio            : 0.05 (359/7574)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7933)
+
+Sample Name: ERR1938061
+SNPs                         : 7523
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 20744
+Missing Genotype             : 1713
+Partial Genotype             : 85
+Phased Genotypes             : 10.8% (3050/28352)
+SNP Transitions/Transversions: 1.65 (9143/5542)
+Total Het/Hom ratio          : 0.05 (388/7220)
+SNP Het/Hom ratio            : 0.05 (365/7158)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7523)
+
+Sample Name: ERR1938062
+SNPs                         : 5486
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24406
+Missing Genotype             : 121
+Partial Genotype             : 52
+Phased Genotypes             : 6.8% (2043/29944)
+SNP Transitions/Transversions: 1.72 (6841/3966)
+Total Het/Hom ratio          : 0.03 (172/5366)
+SNP Het/Hom ratio            : 0.03 (167/5319)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5486)
+
+Sample Name: ERR1938063
+SNPs                         : 163
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 29890
+Missing Genotype             : 5
+Partial Genotype             : 7
+Phased Genotypes             : 0.3% (90/30060)
+SNP Transitions/Transversions: 1.60 (133/83)
+Total Het/Hom ratio          : 2.09 (115/55)
+SNP Het/Hom ratio            : 2.08 (110/53)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/163)
+
+Sample Name: ERR1938066
+SNPs                         : 6216
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23644
+Missing Genotype             : 137
+Partial Genotype             : 68
+Phased Genotypes             : 8.4% (2510/29928)
+SNP Transitions/Transversions: 1.64 (7607/4644)
+Total Het/Hom ratio          : 0.03 (191/6093)
+SNP Het/Hom ratio            : 0.03 (184/6032)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6216)
+
+Sample Name: SRR10725597
+SNPs                         : 5513
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24396
+Missing Genotype             : 105
+Partial Genotype             : 51
+Phased Genotypes             : 6.8% (2034/29960)
+SNP Transitions/Transversions: 1.73 (6891/3989)
+Total Het/Hom ratio          : 0.03 (153/5411)
+SNP Het/Hom ratio            : 0.03 (148/5365)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5513)
+
+Sample Name: SRR10725598
+SNPs                         : 8333
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21096
+Missing Genotype             : 519
+Partial Genotype             : 117
+Phased Genotypes             : 11.5% (3387/29546)
+SNP Transitions/Transversions: 1.67 (10211/6127)
+Total Het/Hom ratio          : 0.04 (350/8100)
+SNP Het/Hom ratio            : 0.04 (335/7998)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/8333)
+
+Sample Name: SRR5239759
+SNPs                         : 7706
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21942
+Missing Genotype             : 345
+Partial Genotype             : 72
+Phased Genotypes             : 10.2% (3030/29720)
+SNP Transitions/Transversions: 1.63 (9345/5724)
+Total Het/Hom ratio          : 0.05 (353/7425)
+SNP Het/Hom ratio            : 0.05 (346/7360)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7706)
+
+Sample Name: SRR5239760
+SNPs                         : 7769
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21953
+Missing Genotype             : 277
+Partial Genotype             : 66
+Phased Genotypes             : 10.2% (3030/29788)
+SNP Transitions/Transversions: 1.63 (9404/5772)
+Total Het/Hom ratio          : 0.05 (369/7466)
+SNP Het/Hom ratio            : 0.05 (364/7405)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7769)
+
+Sample Name: SRR5239761
+SNPs                         : 7797
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21950
+Missing Genotype             : 245
+Partial Genotype             : 73
+Phased Genotypes             : 10.2% (3055/29820)
+SNP Transitions/Transversions: 1.63 (9440/5802)
+Total Het/Hom ratio          : 0.05 (364/7506)
+SNP Het/Hom ratio            : 0.05 (356/7441)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7797)
+
+Sample Name: SRR5239767
+SNPs                         : 6186
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23681
+Missing Genotype             : 127
+Partial Genotype             : 71
+Phased Genotypes             : 8.1% (2437/29938)
+SNP Transitions/Transversions: 1.65 (7619/4611)
+Total Het/Hom ratio          : 0.02 (148/6109)
+SNP Het/Hom ratio            : 0.02 (145/6041)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6186)
+
+Sample Name: SRR5239770
+SNPs                         : 7835
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21727
+Missing Genotype             : 408
+Partial Genotype             : 95
+Phased Genotypes             : 10.7% (3187/29657)
+SNP Transitions/Transversions: 1.68 (9647/5732)
+Total Het/Hom ratio          : 0.04 (310/7620)
+SNP Het/Hom ratio            : 0.04 (298/7537)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7835)
+
+Sample Name: SRR5239772
+SNPs                         : 7864
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21689
+Missing Genotype             : 419
+Partial Genotype             : 93
+Phased Genotypes             : 10.8% (3197/29646)
+SNP Transitions/Transversions: 1.69 (9689/5738)
+Total Het/Hom ratio          : 0.04 (312/7645)
+SNP Het/Hom ratio            : 0.04 (304/7560)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7864)
+
+Sample Name: SRR8068012
+SNPs                         : 5315
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24635
+Missing Genotype             : 50
+Partial Genotype             : 65
+Phased Genotypes             : 6.1% (1818/30015)
+SNP Transitions/Transversions: 1.69 (6542/3871)
+Total Het/Hom ratio          : 0.05 (240/5140)
+SNP Het/Hom ratio            : 0.04 (226/5089)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5315)
+
+Sample Name: SRR8068013
+SNPs                         : 6343
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23316
+Missing Genotype             : 322
+Partial Genotype             : 84
+Phased Genotypes             : 8.5% (2543/29743)
+SNP Transitions/Transversions: 1.60 (7691/4795)
+Total Het/Hom ratio          : 0.03 (207/6220)
+SNP Het/Hom ratio            : 0.03 (205/6138)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6343)
+
+Sample Name: SRR8068014
+SNPs                         : 7826
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21750
+Missing Genotype             : 389
+Partial Genotype             : 100
+Phased Genotypes             : 10.7% (3180/29676)
+SNP Transitions/Transversions: 1.62 (9504/5881)
+Total Het/Hom ratio          : 0.04 (285/7641)
+SNP Het/Hom ratio            : 0.04 (273/7553)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7826)
+
+Sample Name: SRR8068015
+SNPs                         : 7777
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21929
+Missing Genotype             : 288
+Partial Genotype             : 71
+Phased Genotypes             : 10.5% (3115/29777)
+SNP Transitions/Transversions: 1.63 (9432/5772)
+Total Het/Hom ratio          : 0.05 (360/7488)
+SNP Het/Hom ratio            : 0.05 (354/7423)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7777)
+
+Sample Name: SRR8068016
+SNPs                         : 5889
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23849
+Missing Genotype             : 271
+Partial Genotype             : 56
+Phased Genotypes             : 7.8% (2326/29794)
+SNP Transitions/Transversions: 1.61 (7134/4419)
+Total Het/Hom ratio          : 0.04 (228/5717)
+SNP Het/Hom ratio            : 0.04 (225/5664)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5889)
+
+Sample Name: SRR8068017
+SNPs                         : 7846
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21540
+Missing Genotype             : 597
+Partial Genotype             : 82
+Phased Genotypes             : 10.9% (3210/29468)
+SNP Transitions/Transversions: 1.68 (9729/5800)
+Total Het/Hom ratio          : 0.02 (171/7757)
+SNP Het/Hom ratio            : 0.02 (168/7678)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7846)
+
+Sample Name: SRR8068018
+SNPs                         : 7746
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21776
+Missing Genotype             : 444
+Partial Genotype             : 99
+Phased Genotypes             : 10.8% (3187/29621)
+SNP Transitions/Transversions: 1.64 (9431/5739)
+Total Het/Hom ratio          : 0.05 (338/7507)
+SNP Het/Hom ratio            : 0.04 (328/7418)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7746)
+
+Sample Name: SRR8068019
+SNPs                         : 5320
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24638
+Missing Genotype             : 48
+Partial Genotype             : 59
+Phased Genotypes             : 6.0% (1814/30017)
+SNP Transitions/Transversions: 1.69 (6545/3875)
+Total Het/Hom ratio          : 0.05 (239/5140)
+SNP Het/Hom ratio            : 0.05 (231/5089)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5320)
+
+Sample Name: SRR8068020
+SNPs                         : 7390
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 22380
+Missing Genotype             : 213
+Partial Genotype             : 82
+Phased Genotypes             : 10.0% (2994/29852)
+SNP Transitions/Transversions: 1.68 (9035/5375)
+Total Het/Hom ratio          : 0.05 (378/7094)
+SNP Het/Hom ratio            : 0.05 (372/7018)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7390)
+
+Sample Name: SRR8068021
+SNPs                         : 7880
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21566
+Missing Genotype             : 532
+Partial Genotype             : 87
+Phased Genotypes             : 11.0% (3256/29533)
+SNP Transitions/Transversions: 1.68 (9769/5825)
+Total Het/Hom ratio          : 0.02 (172/7795)
+SNP Het/Hom ratio            : 0.02 (169/7711)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7880)
+
+Sample Name: SRR8068022
+SNPs                         : 7352
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 22396
+Missing Genotype             : 236
+Partial Genotype             : 81
+Phased Genotypes             : 10.0% (2971/29829)
+SNP Transitions/Transversions: 1.68 (8965/5351)
+Total Het/Hom ratio          : 0.06 (392/7041)
+SNP Het/Hom ratio            : 0.06 (389/6963)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7352)
+
+Sample Name: SRR8068023
+SNPs                         : 6888
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 22785
+Missing Genotype             : 315
+Partial Genotype             : 77
+Phased Genotypes             : 8.7% (2575/29750)
+SNP Transitions/Transversions: 1.73 (8610/4976)
+Total Het/Hom ratio          : 0.03 (205/6760)
+SNP Het/Hom ratio            : 0.03 (195/6693)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6888)
+
+Sample Name: SRR8068024
+SNPs                         : 6131
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23421
+Missing Genotype             : 419
+Partial Genotype             : 94
+Phased Genotypes             : 8.5% (2524/29646)
+SNP Transitions/Transversions: 1.68 (7546/4493)
+Total Het/Hom ratio          : 0.04 (235/5990)
+SNP Het/Hom ratio            : 0.04 (226/5905)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6131)
+
+Sample Name: SRR8068026
+SNPs                         : 7773
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21915
+Missing Genotype             : 303
+Partial Genotype             : 74
+Phased Genotypes             : 10.4% (3104/29762)
+SNP Transitions/Transversions: 1.64 (9422/5752)
+Total Het/Hom ratio          : 0.05 (387/7460)
+SNP Het/Hom ratio            : 0.05 (375/7398)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7773)
+
+Sample Name: SRR8068028
+SNPs                         : 5148
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24599
+Missing Genotype             : 269
+Partial Genotype             : 49
+Phased Genotypes             : 6.0% (1797/29796)
+SNP Transitions/Transversions: 1.70 (6396/3753)
+Total Het/Hom ratio          : 0.03 (163/5034)
+SNP Het/Hom ratio            : 0.03 (154/4994)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5148)
+
+Sample Name: SRR8068029
+SNPs                         : 6216
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23447
+Missing Genotype             : 330
+Partial Genotype             : 72
+Phased Genotypes             : 8.4% (2510/29735)
+SNP Transitions/Transversions: 1.68 (7704/4580)
+Total Het/Hom ratio          : 0.03 (155/6133)
+SNP Het/Hom ratio            : 0.02 (150/6066)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6216)
+
+Sample Name: SRR8068030
+SNPs                         : 7961
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21494
+Missing Genotype             : 518
+Partial Genotype             : 92
+Phased Genotypes             : 11.3% (3342/29547)
+SNP Transitions/Transversions: 1.67 (9766/5859)
+Total Het/Hom ratio          : 0.04 (308/7745)
+SNP Het/Hom ratio            : 0.04 (304/7657)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7961)
+
+Sample Name: SRR8068031
+SNPs                         : 7623
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21816
+Missing Genotype             : 569
+Partial Genotype             : 57
+Phased Genotypes             : 10.3% (3035/29496)
+SNP Transitions/Transversions: 1.68 (9322/5544)
+Total Het/Hom ratio          : 0.05 (391/7289)
+SNP Het/Hom ratio            : 0.05 (382/7241)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7623)
+
+Sample Name: SRR8068032
+SNPs                         : 5299
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24643
+Missing Genotype             : 63
+Partial Genotype             : 60
+Phased Genotypes             : 5.9% (1779/30002)
+SNP Transitions/Transversions: 1.69 (6531/3860)
+Total Het/Hom ratio          : 0.04 (224/5135)
+SNP Het/Hom ratio            : 0.04 (213/5086)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5299)
+
+Sample Name: SRR8068043
+SNPs                         : 6333
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23332
+Missing Genotype             : 313
+Partial Genotype             : 87
+Phased Genotypes             : 8.6% (2550/29752)
+SNP Transitions/Transversions: 1.60 (7677/4806)
+Total Het/Hom ratio          : 0.03 (190/6230)
+SNP Het/Hom ratio            : 0.03 (186/6147)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6333)
+
+Sample Name: SRR8068047
+SNPs                         : 7811
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21930
+Missing Genotype             : 248
+Partial Genotype             : 76
+Phased Genotypes             : 10.6% (3160/29817)
+SNP Transitions/Transversions: 1.63 (9472/5805)
+Total Het/Hom ratio          : 0.05 (365/7522)
+SNP Het/Hom ratio            : 0.05 (350/7461)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7811)
+
+Sample Name: SRR8068050
+SNPs                         : 6263
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23338
+Missing Genotype             : 374
+Partial Genotype             : 90
+Phased Genotypes             : 8.2% (2447/29691)
+SNP Transitions/Transversions: 1.60 (7595/4761)
+Total Het/Hom ratio          : 0.03 (182/6171)
+SNP Het/Hom ratio            : 0.03 (172/6091)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/6263)
+
+Sample Name: SRR8068052
+SNPs                         : 5969
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 23864
+Missing Genotype             : 175
+Partial Genotype             : 57
+Phased Genotypes             : 7.8% (2317/29890)
+SNP Transitions/Transversions: 1.60 (7208/4495)
+Total Het/Hom ratio          : 0.04 (240/5786)
+SNP Het/Hom ratio            : 0.04 (236/5733)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5969)
+
+Sample Name: SRR8068060
+SNPs                         : 7670
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 21763
+Missing Genotype             : 496
+Partial Genotype             : 136
+Phased Genotypes             : 10.9% (3216/29569)
+SNP Transitions/Transversions: 1.69 (9506/5621)
+Total Het/Hom ratio          : 0.03 (240/7566)
+SNP Het/Hom ratio            : 0.03 (217/7453)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7670)
+
+Sample Name: SRR8697264
+SNPs                         : 7417
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 22354
+Missing Genotype             : 206
+Partial Genotype             : 88
+Phased Genotypes             : 9.6% (2862/29859)
+SNP Transitions/Transversions: 1.68 (9005/5358)
+Total Het/Hom ratio          : 0.07 (484/7021)
+SNP Het/Hom ratio            : 0.07 (473/6944)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7417)
+
+Sample Name: SRR8697280
+SNPs                         : 5533
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 24391
+Missing Genotype             : 82
+Partial Genotype             : 59
+Phased Genotypes             : 6.8% (2035/29983)
+SNP Transitions/Transversions: 1.72 (6905/4017)
+Total Het/Hom ratio          : 0.03 (156/5436)
+SNP Het/Hom ratio            : 0.03 (146/5387)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/5533)

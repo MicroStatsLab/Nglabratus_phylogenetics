@@ -1,0 +1,1 @@
+Per-position input coverage was calculated from the BAM alignment of each sample. The resulting coverage files were merged in batches (due to their large size, they could not be uploaded to Git) and subsequently analyzed.

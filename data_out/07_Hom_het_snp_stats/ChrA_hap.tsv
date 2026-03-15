@@ -1,0 +1,1011 @@
+Location                     : 250820_merged_ChrA_nomtd_hap.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 491328
+
+Sample Name: ERR1938051
+SNPs                         : 3497
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476150
+Missing Genotype             : 11681
+Total Haploid                : 3497
+Haploid SNPs                 : 3497
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.68 (2191/1306)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3497)
+
+Sample Name: ERR1938052
+SNPs                         : 2827
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 488392
+Missing Genotype             : 109
+Total Haploid                : 2827
+Haploid SNPs                 : 2827
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.66 (1765/1062)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/2827)
+
+Sample Name: ERR1938054
+SNPs                         : 3690
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 477929
+Missing Genotype             : 9709
+Total Haploid                : 3690
+Haploid SNPs                 : 3690
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2350/1340)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3690)
+
+Sample Name: ERR1938055
+SNPs                         : 3648
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475750
+Missing Genotype             : 11930
+Total Haploid                : 3648
+Haploid SNPs                 : 3648
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.59 (2241/1407)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3648)
+
+Sample Name: ERR1938056
+SNPs                         : 31
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 491007
+Missing Genotype             : 290
+Total Haploid                : 31
+Haploid SNPs                 : 31
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 2.10 (21/10)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/31)
+
+Sample Name: ERR1938057
+SNPs                         : 3225
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476071
+Missing Genotype             : 12032
+Total Haploid                : 3225
+Haploid SNPs                 : 3225
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.68 (2023/1202)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3225)
+
+Sample Name: ERR1938059
+SNPs                         : 7
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 491320
+Missing Genotype             : 1
+Total Haploid                : 7
+Haploid SNPs                 : 7
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.33 (4/3)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/7)
+
+Sample Name: ERR1938062
+SNPs                         : 3455
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 472256
+Missing Genotype             : 15617
+Total Haploid                : 3455
+Haploid SNPs                 : 3455
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.61 (2131/1324)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3455)
+
+Sample Name: ERR1938064
+SNPs                         : 3360
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 468354
+Missing Genotype             : 19614
+Total Haploid                : 3360
+Haploid SNPs                 : 3360
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.65 (2091/1269)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3360)
+
+Sample Name: ERR1938069
+SNPs                         : 4057
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476718
+Missing Genotype             : 10553
+Total Haploid                : 4057
+Haploid SNPs                 : 4057
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.62 (2509/1548)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4057)
+
+Sample Name: ERR1938072
+SNPs                         : 3499
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476599
+Missing Genotype             : 11230
+Total Haploid                : 3499
+Haploid SNPs                 : 3499
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.69 (2198/1301)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3499)
+
+Sample Name: ERR1938083
+SNPs                         : 3440
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 469933
+Missing Genotype             : 17955
+Total Haploid                : 3440
+Haploid SNPs                 : 3440
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.58 (2105/1335)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3440)
+
+Sample Name: ERR1938084
+SNPs                         : 3517
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 477517
+Missing Genotype             : 10294
+Total Haploid                : 3517
+Haploid SNPs                 : 3517
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2200/1317)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3517)
+
+Sample Name: ERR1938086
+SNPs                         : 3249
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476410
+Missing Genotype             : 11669
+Total Haploid                : 3249
+Haploid SNPs                 : 3249
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.69 (2043/1206)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3249)
+
+Sample Name: ERR4669757
+SNPs                         : 3689
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 473775
+Missing Genotype             : 13864
+Total Haploid                : 3689
+Haploid SNPs                 : 3689
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.59 (2262/1427)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3689)
+
+Sample Name: HSC003
+SNPs                         : 3910
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475527
+Missing Genotype             : 11891
+Total Haploid                : 3910
+Haploid SNPs                 : 3910
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.66 (2438/1472)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3910)
+
+Sample Name: HSC005
+SNPs                         : 3693
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 473975
+Missing Genotype             : 13660
+Total Haploid                : 3693
+Haploid SNPs                 : 3693
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.64 (2296/1397)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3693)
+
+Sample Name: HSC017
+SNPs                         : 3799
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475362
+Missing Genotype             : 12167
+Total Haploid                : 3799
+Haploid SNPs                 : 3799
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.74 (2410/1389)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3799)
+
+Sample Name: HSC024
+SNPs                         : 3798
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475712
+Missing Genotype             : 11818
+Total Haploid                : 3798
+Haploid SNPs                 : 3798
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.73 (2409/1389)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3798)
+
+Sample Name: HSC027
+SNPs                         : 4158
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476347
+Missing Genotype             : 10823
+Total Haploid                : 4158
+Haploid SNPs                 : 4158
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.60 (2558/1600)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4158)
+
+Sample Name: HSC031
+SNPs                         : 3245
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476160
+Missing Genotype             : 11923
+Total Haploid                : 3245
+Haploid SNPs                 : 3245
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.68 (2034/1211)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3245)
+
+Sample Name: HSC045
+SNPs                         : 4136
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 471090
+Missing Genotype             : 16102
+Total Haploid                : 4136
+Haploid SNPs                 : 4136
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2587/1549)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4136)
+
+Sample Name: HSC052
+SNPs                         : 3711
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475572
+Missing Genotype             : 12045
+Total Haploid                : 3711
+Haploid SNPs                 : 3711
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2361/1350)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3711)
+
+Sample Name: HSC053
+SNPs                         : 3722
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 474053
+Missing Genotype             : 13553
+Total Haploid                : 3722
+Haploid SNPs                 : 3722
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.65 (2317/1405)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3722)
+
+Sample Name: HSC066
+SNPs                         : 3714
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475518
+Missing Genotype             : 12096
+Total Haploid                : 3714
+Haploid SNPs                 : 3714
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2365/1349)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3714)
+
+Sample Name: HSC071
+SNPs                         : 3698
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475652
+Missing Genotype             : 11978
+Total Haploid                : 3698
+Haploid SNPs                 : 3698
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.76 (2358/1340)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3698)
+
+Sample Name: HSC072
+SNPs                         : 3710
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 470474
+Missing Genotype             : 17144
+Total Haploid                : 3710
+Haploid SNPs                 : 3710
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2361/1349)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3710)
+
+Sample Name: HSC073
+SNPs                         : 3257
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476093
+Missing Genotype             : 11978
+Total Haploid                : 3257
+Haploid SNPs                 : 3257
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.69 (2045/1212)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3257)
+
+Sample Name: HSC075
+SNPs                         : 3714
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 470904
+Missing Genotype             : 16710
+Total Haploid                : 3714
+Haploid SNPs                 : 3714
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2362/1352)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3714)
+
+Sample Name: HSC086
+SNPs                         : 4215
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476474
+Missing Genotype             : 10639
+Total Haploid                : 4215
+Haploid SNPs                 : 4215
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.59 (2586/1629)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4215)
+
+Sample Name: HSC096
+SNPs                         : 3703
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 470194
+Missing Genotype             : 17431
+Total Haploid                : 3703
+Haploid SNPs                 : 3703
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2355/1348)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3703)
+
+Sample Name: HSC101
+SNPs                         : 3062
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475319
+Missing Genotype             : 12947
+Total Haploid                : 3062
+Haploid SNPs                 : 3062
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.71 (1931/1131)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3062)
+
+Sample Name: HSC103
+SNPs                         : 3078
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475310
+Missing Genotype             : 12940
+Total Haploid                : 3078
+Haploid SNPs                 : 3078
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.70 (1936/1142)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3078)
+
+Sample Name: SRR10725598
+SNPs                         : 4280
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476172
+Missing Genotype             : 10876
+Total Haploid                : 4280
+Haploid SNPs                 : 4280
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.59 (2629/1651)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4280)
+
+Sample Name: SRR5239767
+SNPs                         : 3584
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 469879
+Missing Genotype             : 17865
+Total Haploid                : 3584
+Haploid SNPs                 : 3584
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.56 (2186/1398)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3584)
+
+Sample Name: SRR5239770
+SNPs                         : 3593
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475852
+Missing Genotype             : 11883
+Total Haploid                : 3593
+Haploid SNPs                 : 3593
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2246/1347)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3593)
+
+Sample Name: SRR5239772
+SNPs                         : 3567
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476104
+Missing Genotype             : 11657
+Total Haploid                : 3567
+Haploid SNPs                 : 3567
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2232/1335)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3567)
+
+Sample Name: SRR8068014
+SNPs                         : 3824
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476882
+Missing Genotype             : 10622
+Total Haploid                : 3824
+Haploid SNPs                 : 3824
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.60 (2355/1469)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3824)
+
+Sample Name: SRR8068015
+SNPs                         : 3806
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475432
+Missing Genotype             : 12090
+Total Haploid                : 3806
+Haploid SNPs                 : 3806
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.74 (2418/1388)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3806)
+
+Sample Name: SRR8068018
+SNPs                         : 3839
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475750
+Missing Genotype             : 11739
+Total Haploid                : 3839
+Haploid SNPs                 : 3839
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.73 (2435/1404)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3839)
+
+Sample Name: SRR8068021
+SNPs                         : 4167
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 470075
+Missing Genotype             : 17086
+Total Haploid                : 4167
+Haploid SNPs                 : 4167
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.73 (2642/1525)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/4167)
+
+Sample Name: SRR8068022
+SNPs                         : 3660
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 468926
+Missing Genotype             : 18742
+Total Haploid                : 3660
+Haploid SNPs                 : 3660
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.63 (2271/1389)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3660)
+
+Sample Name: SRR8068025
+SNPs                         : 3773
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475787
+Missing Genotype             : 11768
+Total Haploid                : 3773
+Haploid SNPs                 : 3773
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2362/1411)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3773)
+
+Sample Name: SRR8068031
+SNPs                         : 3587
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 474842
+Missing Genotype             : 12899
+Total Haploid                : 3587
+Haploid SNPs                 : 3587
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.68 (2248/1339)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3587)
+
+Sample Name: SRR8068032
+SNPs                         : 2511
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 488623
+Missing Genotype             : 194
+Total Haploid                : 2511
+Haploid SNPs                 : 2511
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.58 (1537/974)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/2511)
+
+Sample Name: SRR8068043
+SNPs                         : 2819
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 477646
+Missing Genotype             : 10863
+Total Haploid                : 2819
+Haploid SNPs                 : 2819
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (1765/1054)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/2819)
+
+Sample Name: SRR8068047
+SNPs                         : 3713
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 470319
+Missing Genotype             : 17296
+Total Haploid                : 3713
+Haploid SNPs                 : 3713
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2361/1352)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3713)
+
+Sample Name: SRR8068050
+SNPs                         : 2822
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 477574
+Missing Genotype             : 10932
+Total Haploid                : 2822
+Haploid SNPs                 : 2822
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.66 (1762/1060)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/2822)
+
+Sample Name: SRR8068051
+SNPs                         : 3465
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 471330
+Missing Genotype             : 16533
+Total Haploid                : 3465
+Haploid SNPs                 : 3465
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.60 (2133/1332)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3465)
+
+Sample Name: SRR8068052
+SNPs                         : 3641
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 474790
+Missing Genotype             : 12897
+Total Haploid                : 3641
+Haploid SNPs                 : 3641
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.71 (2298/1343)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3641)
+
+Sample Name: SRR8068060
+SNPs                         : 3756
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475971
+Missing Genotype             : 11601
+Total Haploid                : 3756
+Haploid SNPs                 : 3756
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2351/1405)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3756)
+
+Sample Name: SRR8697280
+SNPs                         : 3625
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 474252
+Missing Genotype             : 13451
+Total Haploid                : 3625
+Haploid SNPs                 : 3625
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.58 (2220/1405)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3625)
+
+Sample Name: SRR8697288
+SNPs                         : 3577
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 481950
+Missing Genotype             : 5801
+Total Haploid                : 3577
+Haploid SNPs                 : 3577
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.67 (2235/1342)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3577)
+
+Sample Name: SRR8697318
+SNPs                         : 3800
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 475201
+Missing Genotype             : 12327
+Total Haploid                : 3800
+Haploid SNPs                 : 3800
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.63 (2354/1446)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3800)
+
+Sample Name: SRR8697447
+SNPs                         : 3907
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476757
+Missing Genotype             : 10664
+Total Haploid                : 3907
+Haploid SNPs                 : 3907
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.75 (2484/1423)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3907)
+
+Sample Name: SRR8697497
+SNPs                         : 3314
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 476514
+Missing Genotype             : 11500
+Total Haploid                : 3314
+Haploid SNPs                 : 3314
+Haploid MNPs                 : 0
+Haploid Insertions           : 0
+Haploid Deletions            : 0
+Haploid Indels               : 0
+SNP Transitions/Transversions: 1.68 (2079/1235)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/3314)
